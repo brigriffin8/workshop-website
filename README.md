@@ -6,5 +6,5 @@ A repo and website for Jan 31 workshop.
 
 ### Markdown
 - How about a list?
-- Type a hyppen - list - 
+- Type a hyphen - list - 
 - indent that 
