@@ -34,8 +34,7 @@ Two returns.
 - Data Carpentry
 - Library Carpentry
 
-## More info on the lesson
-You can find this lesson [here](https://carpentries-incubator.github.io/jekyll-pages-novice/).
+## Challenge 1 Solution
 
 ### Four reasons you should learn Markdown:
 
