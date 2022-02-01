@@ -16,9 +16,3 @@ You can cite the project as:
 - Email: [team@carpentries.org](mailto:team@carpentries.org)
 - Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
 
-# Building Websites in GitHub
-
-## Description
-This is an example website built while learning how to use Jekyll and GitHub Pages.
-
-More details about the project are available from the [About page](about).
