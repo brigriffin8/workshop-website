@@ -13,5 +13,4 @@ A repo and website for Jan 31 workshop.
 3. Commonly used for websites and software development
 4. We ~~don't~~ use it in The Carpentries
 
-![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
 
