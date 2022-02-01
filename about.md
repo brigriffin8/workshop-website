@@ -1,3 +1,9 @@
+--- 
+layout: default
+author: "brianna"
+title: "About this website in the YAML HEADER"
+--- 
+
 # About
 
 ## Project
